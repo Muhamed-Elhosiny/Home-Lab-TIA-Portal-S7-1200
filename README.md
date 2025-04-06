@@ -1,6 +1,6 @@
 # Home-Lab-TIA-Portal-S7-1200
 
-# Ampelprojekt mit S7-1200
+# Ampelprojekt mit S7-1200 
 
 # 🚦 Ampelsteuerung – Siemens TIA Portal | S7-1200 (1214C AC/DC/Rly)
 
