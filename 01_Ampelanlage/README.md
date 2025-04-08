@@ -58,6 +58,9 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 
 ![image](https://github.com/user-attachments/assets/970286cf-cdfa-4b3e-96de-c19829d2f389)
 
+![image](https://github.com/user-attachments/assets/3460542e-b9ba-4b37-a014-20192eff769b)
+
+
 - **Netzwerk 2** – Rotphase über TON-Timer
 - **Netzwerk 3** – Gelbes Blinklicht über TP-Timer
 - **Netzwerk 4** – Grünphase über TON-Timer
