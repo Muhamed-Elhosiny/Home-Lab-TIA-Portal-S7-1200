@@ -44,45 +44,26 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 ## 🔄 Ablauf der Lichtphasen
 
 1. **Rotphase** (5 Sekunden)
-2. **Gelbphase** (5 Sekunden)
+2. **Gelbphase** (3 Sekunden)
 3. **Grünphase** (5 Sekunden)
-4. Wiederholung
+4. **Wiederholung**
 
 ---
 
 ## Aufbau des Programms
 
-- **Netzwerk 1** – Initialisierung / Reset aller Ausgänge
-
-![image](https://github.com/user-attachments/assets/41631170-3278-409f-b8d2-1457c8b95224)
-
-![image](https://github.com/user-attachments/assets/970286cf-cdfa-4b3e-96de-c19829d2f389)
-
 ![image](https://github.com/user-attachments/assets/3460542e-b9ba-4b37-a014-20192eff769b)
 
+![image](https://github.com/user-attachments/assets/ebf7a12c-9b9e-4022-bac1-f47cc788c3f7)
 
-- **Netzwerk 2** – Rotphase über TON-Timer
-- **Netzwerk 3** – Gelbes Blinklicht über TP-Timer
-- **Netzwerk 4** – Grünphase über TON-Timer
-- **Netzwerk 5** – Ablaufsteuerung / Schrittlogik
+![image](https://github.com/user-attachments/assets/65a223d5-5719-4c87-b92e-29f150f4724a)
 
-
+![image](https://github.com/user-attachments/assets/c5354169-1936-4b36-b3c7-f67f853dfa13)
 
 
 
 
 
-👤 Autor
-Muhamed Elhosiny
-Automatisierungsingenieur mit Fokus auf SPS, SCADA und Steuerungstechnik
-
-📧 muhamad.elhosiny@gmail.com
-🔗 LinkedIn-Profil
-🔗 GitHub-Profil
-
-📜 Lizenz
-Dieses Projekt ist für Lern- und Demonstrationszwecke frei verfügbar.
-Gerne mit Verweis auf den Autor bei Wiederverwendung 🙌
 
  
  
