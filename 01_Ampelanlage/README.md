@@ -61,7 +61,16 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 ![image](https://github.com/user-attachments/assets/c5354169-1936-4b36-b3c7-f67f853dfa13)
 
 
+👤 Autor
+Muhamed Elhosiny
+Automatisierungsingenieur mit Fokus auf SPS, SCADA und Steuerungstechnik
 
+📧 muhamad.elhosiny@gmail.com
+🔗 LinkedIn-Profil
+🔗 GitHub-Profil
+
+📜 Lizenz
+Dieses Projekt ist für Lern- und Demonstrationszwecke frei verfügbar.
 
 
 
