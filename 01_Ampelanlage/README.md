@@ -43,9 +43,9 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 
 ## 🔄 Ablauf der Lichtphasen
 
-1. **Rotphase** (z. B. 5 Sekunden)
-2. **Gelb blinkend** (TP-Timer)
-3. **Grünphase** (z. B. 5 Sekunden)
+1. **Rotphase** (5 Sekunden)
+2. **Gelbphase** (5 Sekunden)
+3. **Grünphase** (5 Sekunden)
 4. Wiederholung
 
 ---
@@ -53,6 +53,10 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 ## Aufbau des Programms
 
 - **Netzwerk 1** – Initialisierung / Reset aller Ausgänge
+
+![image](https://github.com/user-attachments/assets/41631170-3278-409f-b8d2-1457c8b95224)
+
+
 - **Netzwerk 2** – Rotphase über TON-Timer
 - **Netzwerk 3** – Gelbes Blinklicht über TP-Timer
 - **Netzwerk 4** – Grünphase über TON-Timer
