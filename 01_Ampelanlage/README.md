@@ -51,7 +51,8 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 ---
 
 ## Aufbau des Programms
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2d26c51c-9abb-434f-811a-ad811ff7ab84)
+
 
 ![image](https://github.com/user-attachments/assets/3460542e-b9ba-4b37-a014-20192eff769b)
 
