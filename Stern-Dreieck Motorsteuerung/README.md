@@ -48,5 +48,6 @@ Dieses Projekt zeigt die klassische Stern-Dreieck-Ansteuerung zur Reduzierung de
 
 
  
+[Stern-Dreieck-Schaltung –3.pdf](https://github.com/user-attachments/files/19663870/Stern-Dreieck-Schaltung.3.pdf)
 
 
