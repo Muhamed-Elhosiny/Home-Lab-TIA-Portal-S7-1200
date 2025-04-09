@@ -36,5 +36,5 @@ Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 
 **Getestet im Home Lab mit Siemens S7-1200 (1214C AC/DC/Rly) und TIA Portal.**
 
-Projekt unter aktiver Entwicklung`nn` – Feedback und Anregungen willkommen!
+Projekt unter aktiver Entwicklung – Feedback und Anregungen willkommen!
 
