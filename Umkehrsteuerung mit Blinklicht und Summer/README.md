@@ -25,7 +25,7 @@ Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 ---
 # Screenashots
 
-![image](https://github.com/user-attachments/assets/0de22281-465d-4b08-a09d-f7ba7d271651)
+![image](https://github.com/user-attachments/assets/ced8eb1d-068b-4a2c-9c11-074c4e857654)
 
 ## Hinweise
 
