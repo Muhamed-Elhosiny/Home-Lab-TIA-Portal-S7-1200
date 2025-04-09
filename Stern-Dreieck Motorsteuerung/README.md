@@ -39,7 +39,12 @@ Dieses Projekt zeigt die klassische Stern-Dreieck-Ansteuerung zur Reduzierung de
 
 ![image](https://github.com/user-attachments/assets/9c691777-1eb0-45db-8c7c-e545c10982b6)
 
-![image](https://github.com/user-attachments/assets/caf73e5d-ae3d-4cde-a2ee-f8f9a21e362b)
+![image](https://github.com/user-attachments/assets/3457e707-9857-4687-a2ef-d35078d23adb)
+
+![image](https://github.com/user-attachments/assets/9b631641-f7f6-427e-98ad-2ff9ac70c1c1)
+
+![image](https://github.com/user-attachments/assets/3eb17729-9b27-4e41-b2f6-a50aa9a88d1a)
+
 
 
  
