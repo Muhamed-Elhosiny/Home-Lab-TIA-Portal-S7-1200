@@ -3,7 +3,7 @@
 In diesem Projekt wird ein Motor mithilfe einer Umkehrsteuerung automatisch gesteuert.  
 Bei Tastendruck in eine Richtung startet der Motor manuell. Sobald ein Motor läuft,  
 aktiviert sich ein automatischer Blinkmechanismus mit zwei Lampen, die sich im Sekundentakt abwechseln,  
-sowie ein Summer, der nur für eine Sekunde ertönt.  
+sowie ein Summer, der nur für eine Sekunde ertönt.   
 Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 
 ---
