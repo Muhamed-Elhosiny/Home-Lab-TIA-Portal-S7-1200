@@ -8,7 +8,7 @@ Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 
 ---
 
-## 📊 Ein-/Ausgangstabelle
+## Ein-/Ausgangstabelle
 
 | Nr. | Typ     | Adresse | Bezeichnung | Verwendung              |
 |-----|---------|---------|-------------|--------------------------|
