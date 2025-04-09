@@ -55,16 +55,6 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 ![image](https://github.com/user-attachments/assets/4d281b08-9f5e-4b83-9a9a-95c4937d38f9)
 
 
-
-![image](https://github.com/user-attachments/assets/3460542e-b9ba-4b37-a014-20192eff769b)
-
-![image](https://github.com/user-attachments/assets/ebf7a12c-9b9e-4022-bac1-f47cc788c3f7)
-
-![image](https://github.com/user-attachments/assets/65a223d5-5719-4c87-b92e-29f150f4724a)
-
-![image](https://github.com/user-attachments/assets/c5354169-1936-4b36-b3c7-f67f853dfa13)
-
-
 👤 Autor
 Muhamed Elhosiny
 Automatisierungsingenieur mit Fokus auf SPS, SCADA und Steuerungstechnik
