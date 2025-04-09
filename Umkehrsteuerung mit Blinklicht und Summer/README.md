@@ -1,4 +1,4 @@
-# 🔁 Projekt: Automatisierung einer Umkehrsteuerung mit Blinklicht und Summer
+# Projekt: Automatisierung einer Umkehrsteuerung mit Blinklicht und Summer
 
 In diesem Projekt wird ein Motor mithilfe einer Umkehrsteuerung automatisch gesteuert.  
 Bei Tastendruck in eine Richtung startet der Motor manuell. Sobald ein Motor läuft,  
@@ -24,7 +24,7 @@ Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 
 ---
 
-## 💡 Hinweise
+## Hinweise
 
 - Die Steuerung verwendet **Set/Reset-Bausteine** sowie das Zeitglied **TONR**,  
   da beide Bausteine ihren Zustand auch bei Stromausfall behalten.
@@ -34,7 +34,7 @@ Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 
 ---
 
-✅ **Getestet im Home Lab mit Siemens S7-1200 (1214C AC/DC/Rly) und TIA Portal.**
+**Getestet im Home Lab mit Siemens S7-1200 (1214C AC/DC/Rly) und TIA Portal.**
 
 Projekt unter aktiver Entwicklung – Feedback und Anregungen willkommen!
 
