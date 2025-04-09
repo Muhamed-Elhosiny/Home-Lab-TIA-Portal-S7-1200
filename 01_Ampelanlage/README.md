@@ -1,7 +1,7 @@
 
 # Ampelprojekt mit S7-1200
 
-# 🚦 Ampelsteuerung – Siemens TIA Portal | S7-1200 (1214C AC/DC/Rly)
+# Ampelsteuerung – Siemens TIA Portal | S7-1200 (1214C AC/DC/Rly)
 
 Dieses Projekt simuliert eine vollständige Ampelsteuerung mithilfe einer Siemens S7-1200 SPS im TIA Portal.  
 Die Steuerung ist modular aufgebaut und wurde auf echter Hardware (CPU 1214C AC/DC/Rly) in meinem Home Lab programmiert und getestet.  
@@ -16,7 +16,7 @@ Das Projekt zeigt den Einsatz von TON- und TP-Timern zur Steuerung der Lichtphas
 - Getestet auf echter Hardware (S7-1200 CPU 1214C AC/DC/Rly)
 - Strukturierter Aufbau in mehreren Netzwerken (LAD/KOP)
 
-## ⚙️ Projektübersicht
+## Projektübersicht
 
 | Komponente              | Beschreibung                         |
 |-------------------------|--------------------------------------|
@@ -28,7 +28,7 @@ Das Projekt zeigt den Einsatz von TON- und TP-Timern zur Steuerung der Lichtphas
 
 ---
 
-## 🧪 Realitätsnahe Umsetzung
+## Realitätsnahe Umsetzung
 
 Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 
@@ -41,7 +41,7 @@ Das Projekt wurde in meinem **Home Lab mit realer SPS** umgesetzt:
 
 ---
 
-## 🔄 Ablauf der Lichtphasen
+## Ablauf der Lichtphasen
 
 1. **Rotphase** (5 Sekunden)
 2. **Gelbphase** (3 Sekunden)
