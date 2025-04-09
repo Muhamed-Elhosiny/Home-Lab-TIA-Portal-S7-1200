@@ -17,14 +17,9 @@ Dieses Projekt zeigt eine einfache **SPS-Steuerung** für einen Motor mit zwei B
 ---
 
 ## Screenshots Mit Funktionsbeschreibung
+ 
+![image](https://github.com/user-attachments/assets/12b1d75d-fc2f-4170-81a7-4b9f49ec64d5)
 
-![image](https://github.com/user-attachments/assets/64da9b66-b4ec-47f5-8414-939cc0bf5d5c)
-
-![image](https://github.com/user-attachments/assets/cf93fc91-47c9-44a5-b086-7cb855e29342)
-
-![image](https://github.com/user-attachments/assets/6b0e01f7-a3e3-4043-aa61-2a3e51d904fa)
-
-![image](https://github.com/user-attachments/assets/508e6a96-905d-4501-bc15-d50812b235c7)
 
 
 
