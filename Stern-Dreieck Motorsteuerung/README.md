@@ -37,9 +37,9 @@ Dieses Projekt zeigt die klassische Stern-Dreieck-Ansteuerung zur Reduzierung de
 
 ## Screenshots
 
-👉 Lege deine Screenshots im Ordner `screenshots/` ab und verlinke sie hier:
+![image](https://github.com/user-attachments/assets/caf73e5d-ae3d-4cde-a2ee-f8f9a21e362b)
 
-```markdown
-![Übersicht](screenshots/01_overview.png)
-![Ladder Code](screenshots/02_ladder_logic.png)
+
+ 
+
 
