@@ -32,13 +32,14 @@ Die gesamte Steuerung läuft solange, bis der Motor gestoppt wird.
 ![image](https://github.com/user-attachments/assets/c3201206-a9c8-456f-82be-26867746a921)
 ![image](https://github.com/user-attachments/assets/26ac892a-9a52-4f87-b41b-e5fb1d7ad401)
 ![image](https://github.com/user-attachments/assets/99a68735-9d11-406e-8c33-7e353c1723ca)
- 
+![image](https://github.com/user-attachments/assets/2ec0839b-dbef-407f-ba52-c7395a763233)
 
 
 
 
 ## Hinweise
-![image](https://github.com/user-attachments/assets/2ec0839b-dbef-407f-ba52-c7395a763233)
+![image](https://github.com/user-attachments/assets/0de22281-465d-4b08-a09d-f7ba7d271651)
+
 - Die Steuerung verwendet **Set/Reset-Bausteine** sowie das Zeitglied **TONR**,  
   da beide Bausteine ihren Zustand auch bei Stromausfall behalten.
 - Nach Wiedereinschalten setzt die Steuerung automatisch dort fort, wo sie aufgehört hat.
