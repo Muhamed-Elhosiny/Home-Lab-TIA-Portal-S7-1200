@@ -55,8 +55,7 @@ Diese Linie dient der Steuerung, damit keine neue Flasche einläuft, bevor die e
 5. **Zusätzliche Logik**: Die Linie Q0.1 startet über I0.1, Q0.2 über I0.4.
 
 ---
-![image](https://github.com/user-attachments/assets/28e1e2cc-2e38-4519-95e6-657cf82b4352)
-
+![image](https://github.com/user-attachments/assets/86bfb9a3-1f78-4f7e-a6bc-35cd64a6b6a9)
 
 
 ## 🖥️ Programmlogik (TIA Portal)
