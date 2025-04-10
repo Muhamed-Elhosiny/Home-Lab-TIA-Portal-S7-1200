@@ -6,7 +6,7 @@ Dieses Projekt simuliert eine industrielle Füllstandsregelung mit zwei Einlaufl
 Demonstration einer praxisnahen Automatisierungslösung für die Steuerung eines Füllsystems mit mehreren Sensoren und Ausgängen.
 
 ---
-## 🛠️ Funktionsweise
+## Funktionsweise
 
 Beim Drücken der **Starttaste I0.1** wird die **erste Produktionslinie Q0.1** und die **zweite Q0.2** aktiviert – beide bewegen sich in dieselbe Richtung.
 
@@ -42,6 +42,8 @@ Diese Linie dient der Steuerung, damit keine neue Flasche einläuft, bevor die e
 | 7   | Ausgang  | Q0.2    | Linie 2               |
 | 8   | Ausgang  | Q0.3    | Ventil                |
 
+![image](https://github.com/user-attachments/assets/343a491a-397d-408c-9928-b529b48d2d31)
+
 ---
 
 ## 🔄 Funktionsbeschreibung
@@ -53,6 +55,8 @@ Diese Linie dient der Steuerung, damit keine neue Flasche einläuft, bevor die e
 5. **Zusätzliche Logik**: Die Linie Q0.1 startet über I0.1, Q0.2 über I0.4.
 
 ---
+![image](https://github.com/user-attachments/assets/80a048d0-cee6-4440-b2ed-9e47bf0fd489)
+
 
 ## 🖥️ Programmlogik (TIA Portal)
 
