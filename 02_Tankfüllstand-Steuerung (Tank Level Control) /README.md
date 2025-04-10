@@ -27,7 +27,8 @@ Dieses Projekt simuliert eine Steuerung für den Füllstand eines Tanks mit drei
 
 ## Programm Mit Beschreibung
 
-![image](https://github.com/user-attachments/assets/e9263a47-692e-4bcf-a65b-7996dd0d82d6)
+![image](https://github.com/user-attachments/assets/2c34c22e-a11a-448a-9814-68e78238a277)
+
 
 
  
