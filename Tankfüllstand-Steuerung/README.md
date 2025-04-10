@@ -5,6 +5,8 @@
 
 Dieses Projekt simuliert eine Steuerung für den Füllstand eines Tanks mit drei Pumpen. Die Steuerung erfolgt anhand von drei verschiedenen Füllstandssensoren und einem Not-Aus-Taster.
 
+![image](https://github.com/user-attachments/assets/1c8797b3-c551-4f31-a0c5-91ed9aaf9991)
+
 ## Funktionsweise
 
 - **Pumpe 1** (Q0.1) wird aktiviert, wenn der Füllstand unter I1.2 (Operation Level) fällt.
