@@ -13,16 +13,6 @@ Dieses Projekt simuliert eine Steuerung für den Füllstand eines Tanks mit drei
 
 ## Komponentenübersicht
 
-| Nr. | Typ      | Adresse | Bezeichnung       | Verwendung     |
-|-----|----------|---------|-------------------|----------------|
-| 1   | Eingang  | I0.0    | Stop              | Not-Aus-Taster |
-| 2   | Eingang  | I1.1    | High Level        | oberer Füllstand |
-| 3   | Eingang  | I1.2    | Operation Level   | Betriebsfüllstand |
-| 4   | Eingang  | I1.3    | Low Level         | unterer Füllstand |
-| 5   | Ausgang  | Q0.1    | Pumpe 1           | erste Pumpe    |
-| 6   | Ausgang  | Q0.2    | Pumpe 2           | zweite Pumpe   |
-| 7   | Ausgang  | Q0.3    | Pumpe 3           | dritte Pumpe   |
-
 ![image](https://github.com/user-attachments/assets/ca2eab95-98af-433f-b46b-2c2bbedd47c1)
 
 ## Programm Mit Beschreibung
