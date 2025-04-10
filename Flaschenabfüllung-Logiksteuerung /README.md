@@ -2,6 +2,9 @@
 
 Dieses Projekt simuliert eine industrielle Füllstandsregelung mit zwei Einlaufleitungen und einem Ventil zum Füllen eines Behälters. Der Ablauf wird mit Sensoren überwacht, um sicherzustellen, dass der Behälter nicht überläuft oder leerläuft.
 
+![image](https://github.com/user-attachments/assets/7b61968f-bda4-4e18-94a3-a945c25c65f6)
+
+
 ## Ziel
 Demonstration einer praxisnahen Automatisierungslösung für die Steuerung eines Füllsystems mit mehreren Sensoren und Ausgängen.
 
