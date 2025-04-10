@@ -5,7 +5,7 @@
 
 Dieses Projekt simuliert eine Steuerung für den Füllstand eines Tanks mit drei Pumpen. Die Steuerung erfolgt anhand von drei verschiedenen Füllstandssensoren und einem Not-Aus-Taster.
 
-![image](https://github.com/user-attachments/assets/ccc9a8fb-da4f-4527-ac97-ade5e5c397f2)
+![image](https://github.com/user-attachments/assets/430b99c5-e171-4ec9-a78a-694b207721e5)
 
 ## Funktionsweise
 
