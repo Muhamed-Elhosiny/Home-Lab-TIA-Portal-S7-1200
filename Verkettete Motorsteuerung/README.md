@@ -10,7 +10,8 @@ Ziel des Projekts ist es, das Konzept der Ablaufsteuerung mit Hilfe von SPS-Prog
 
 ## Funktionsweise
 
-![image](https://github.com/user-attachments/assets/8e074999-3d6f-47d3-bea4-37f1a141d2e0)
+![image](https://github.com/user-attachments/assets/f816b352-6f62-4947-b0a4-44ee21ebb276)
+
 
 
 1. Beim Drücken der Starttaste (`I0.1`) wird der erste Motor (`Q0.1`) aktiviert.
