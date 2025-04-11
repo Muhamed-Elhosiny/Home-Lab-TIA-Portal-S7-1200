@@ -8,4 +8,4 @@ Dieses Projekt zeigt die Steuerung von drei Motoren, die nacheinander mit Zeitve
 
 
 
-![image](https://github.com/user-attachments/assets/51d7d2c3-3e11-4d96-8d7c-4dcde0d2f195)
+![image](https://github.com/user-attachments/assets/8d0a4556-fa7b-4e4f-8581-059db1341213)
