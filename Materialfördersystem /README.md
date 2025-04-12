@@ -1,8 +1,10 @@
-# ⚙️ Materialfördersystem – Automatisierungsprojekt
+# Materialfördersystem – Automatisierungsprojekt
 
 ## Projektbeschreibung
 
 Dieses Projekt beschreibt ein Materialfördersystem, das dazu dient, Materialien wie Körner, Pulver oder Granulat von Bodenniveau auf eine bestimmte Höhe zu transportieren. Der Fördermechanismus basiert auf einer Kette, die durch einen Elektromotor angetrieben wird, und einem Schwingförderer zur kontinuierlichen Beschickung eines Behälters.
+
+![image](https://github.com/user-attachments/assets/90aea58e-58d2-4eb9-9515-55822c1185b7)
 
 ---
 
