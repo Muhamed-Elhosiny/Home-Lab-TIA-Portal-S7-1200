@@ -34,7 +34,19 @@ Es sind vier Reflexsensoren mit Reflektoren installiert, wie in der Abbildung ge
    - Weitere Boxen zu Förderband 2.
 5. **Zähler-Reset**: Manuell über Stopp-Taster.
 
-## Screenshots:
+## SPS-Tags (PLC Tags)
+
+Hier sind alle verwendeten Ein- und Ausgänge, Speicher und Timer mit ihren Adressen und Bedeutungen dokumentiert.
+
+*(→ Hier Screenshot oder Tabelle einfügen)*
+
+---
+
+## TIA-Programm (LAD / Steuerungslogik)
+
+Dieses Abschnitt enthält Screenshots des Programms, das in TIA Portal erstellt wurde.
+
+*(→ Hier Screenshots deiner Netzwerke einfügen, z.B. Network 1–10)*
 
 
 
