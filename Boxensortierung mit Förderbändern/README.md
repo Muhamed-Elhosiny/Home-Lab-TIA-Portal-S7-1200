@@ -4,6 +4,8 @@
 
 Dieses Projekt simuliert eine automatische Sortieranlage für Boxen, wie in Abbildung 1 dargestellt. Sie besteht aus einem Hauptförderband, von dem die Boxen geladen werden, sowie zwei Entladeförderbändern, die die Boxen in unterschiedliche Richtungen transportieren.
 
+![image](https://github.com/user-attachments/assets/981d0ec8-bfe6-4342-b456-afd01d2bcc38)
+
 Es sind vier Reflexsensoren mit Reflektoren installiert, wie in der Abbildung gezeigt.
 
 - Wenn ein Reflexsensor eine Box auf dem Hauptförderband erkennt, startet das Hauptförderband nach einer Verzögerung von 1 Sekunde.
