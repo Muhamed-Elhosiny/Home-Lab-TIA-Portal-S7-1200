@@ -62,6 +62,6 @@ Demonstration eines einfachen aber praxisnahen Automatisierungsablaufs mit Fokus
 ## Kontakt
 
 > Erstellt im Rahmen meines Home-Lab-Projekts.  
-> Bei Fragen oder Feedback: [Dein Name oder LinkedIn Profil]
+> Bei Fragen oder Feedback: www.linkedin.com/in/elhosiny
 
 
