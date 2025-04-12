@@ -4,9 +4,7 @@
 
 Dieses Projekt beschreibt ein Materialfördersystem, das dazu dient, Materialien wie Körner, Pulver oder Granulat von Bodenniveau auf eine bestimmte Höhe zu transportieren. Der Fördermechanismus basiert auf einer Kette, die durch einen Elektromotor angetrieben wird, und einem Schwingförderer zur kontinuierlichen Beschickung eines Behälters.
 
-![image](https://github.com/user-attachments/assets/4176b5bc-4a9a-4c32-8681-6ce71a557462)
-
----
+![image](https://github.com/user-attachments/assets/330e1534-4edd-42ab-aa9a-7c0ad0503699)
 
 ## Funktionsbeschreibung
 
@@ -37,22 +35,14 @@ Dieses Projekt beschreibt ein Materialfördersystem, das dazu dient, Materialien
 
 ## Symbolische Variablenbezeichnung
 
-| Symbolischer Name      | Beschreibung                     | Typ     |
-|------------------------|----------------------------------|---------|
-| `start_PB`             | Start-Taster                     | Bool    |
-| `motor_kette`          | Motor für Förderkette            | Bool    |
-| `schwingfoerderer`     | Vibrationsförderer               | Bool    |
-| `level_sensor`         | Füllstandssensor                 | Bool    |
-| `timer_start_foerderer`| Timer für Fördererstart          | TON     |
-| `timer_stop_kette`     | Timer für Ketten-Stoppverzögerung| TON     |
+![image](https://github.com/user-attachments/assets/8f977d51-aa25-420b-adbc-859ad6a3cd30)
 
 ---
 
 ## Screenshots
 
-| Startsequenz            | Stoppsequenz            |
-|-------------------------|-------------------------|
-| ![start](BILDER/startsequenz.png) | ![stopp](BILDER/stoppsequenz.png) |
+![image](https://github.com/user-attachments/assets/1c856986-0707-4f01-adf3-8b9501414b5b)
+
 
 ---
 
