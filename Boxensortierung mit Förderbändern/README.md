@@ -32,6 +32,12 @@ Es sind vier Reflexsensoren mit Reflektoren installiert, wie in der Abbildung ge
    - Weitere Boxen zu Förderband 2.
 5. **Zähler-Reset**: Manuell über Stopp-Taster.
 
-## Ordnerstruktur:
+## Screenshots:
+
+
+
+## Hinweis:
+Dieses Projekt befindet sich aktuell in der Entwicklung und wird schrittweise getestet und dokumentiert.
+
 
 
