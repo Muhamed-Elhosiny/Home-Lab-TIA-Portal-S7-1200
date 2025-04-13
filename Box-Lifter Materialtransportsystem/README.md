@@ -41,8 +41,9 @@ Dieses Projekt simuliert ein automatisiertes Materialfördersystem mit einem **B
 
 ## Projektstatus
 
-- ✅ Vollständig getestet im **Home Lab** mit einer realen **S7‑1200 CPU**
-- ✅ Lauffähig in **TIA Portal V17+**
-- ✅ Funktioniert mit **PLCSIM** oder realem Aufbau
-- 📁 Alle Projektdateien im Repository enthalten
+- Vollständig getestet im **Home Lab** mit einer realen **S7‑1200 CPU**
+- Lauffähig in **TIA Portal V17+**
+- Alle Projektdateien im Repository enthalten
+
+  
 
