@@ -1,6 +1,6 @@
 # Projektname: Box-Lifter Materialtransportsystem
 
- ![image](https://github.com/user-attachments/assets/00ff6373-0401-4c8e-92f3-6a2d212011a1)
+![image](https://github.com/user-attachments/assets/4d59b1a7-468e-4546-8352-3bb99426d089)
 
 
 ## Projektidee
@@ -39,6 +39,8 @@ Dieses Projekt simuliert ein automatisiertes Materialfördersystem mit einem **B
 - Vollständig getestet im **Home Lab** mit einer realen **S7‑1200 CPU**
 - Lauffähig in **TIA Portal V17+**
 - Alle Projektdateien im Repository enthalten
+
+  
 
   
 
