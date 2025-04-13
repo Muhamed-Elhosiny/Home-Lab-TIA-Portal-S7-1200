@@ -21,25 +21,23 @@ Dieses Projekt simuliert ein automatisiertes Materialfördersystem mit einem **B
 8. **1s Wartezeit**, dann startet der Zyklus erneut.
 9. **Stop**: Über den Stopptaster (`%I0.0`) wird der gesamte Zyklus gestoppt.
 
+![image](https://github.com/user-attachments/assets/4b86cbe9-6990-4acc-a959-4c0633a6cb78)
+
 ---
 
 ## SPS Variablentabelle (TIA Portal kompatibel)
 
-| Symbolname (DE)            | Adresse  | Typ     | Beschreibung |
-|----------------------------|----------|----------|--------------|
-| `Start_Taster`             | `%I0.1`  | Input   | Startet den Prozess |
-| `Stopp_Taster`             | `%I0.0`  | Input   | Hält den Prozess an |
-| `Sensor_Förderer1`         | `%I0.2`  | Input   | Box am Förderer 1 erkannt |
-| `Sensor_Entladeposition`   | `%I0.4`  | Input   | Box am Ende Förderer 1 |
-| `Reed_Schieber`            | `%I0.3`  | Input   | Schieber in Grundstellung |
-| `Motor_Förderkette`        | `%Q0.1`  | Output  | Förderbandmotor Ein/Aus |
-| `Schieber_Auswerfer`       | `%Q0.2`  | Output  | Schieber betätigen |
-| `Betriebsmodus`            | `%M0.0`  | Merker  | Aktiver Zyklusstatus |
+ ![image](https://github.com/user-attachments/assets/95b24294-d503-4a8e-aa01-7ce6d7e5504f)
+
+  
 | `Timer_Startverzögerung`   | `T1`     | Timer   | 1s Verzögerung nach Box |
 | `Timer_Schieber`           | `T2`     | Timer   | 2s Verzögerung für Schieber |
 | `Timer_NächsterZyklus`     | `T3`     | Timer   | 1s Wartezeit vor Restart |
 
 ---
+# Programm
+
+![image](https://github.com/user-attachments/assets/ad19df91-2aa4-4223-913e-cdcd82b9d6f4)
 
 ## Projektstatus
 
