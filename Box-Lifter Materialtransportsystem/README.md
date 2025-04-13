@@ -1,5 +1,7 @@
 # Projektname: Box-Lifter Materialtransportsystem
-![image](https://github.com/user-attachments/assets/0171bb85-aa23-4fc5-88f0-69d6f20bd5fa)
+
+ ![image](https://github.com/user-attachments/assets/00ff6373-0401-4c8e-92f3-6a2d212011a1)
+
 
 ## Projektidee
 
