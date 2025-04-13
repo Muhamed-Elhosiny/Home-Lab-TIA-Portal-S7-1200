@@ -29,11 +29,6 @@ Dieses Projekt simuliert ein automatisiertes Materialfördersystem mit einem **B
 
  ![image](https://github.com/user-attachments/assets/95b24294-d503-4a8e-aa01-7ce6d7e5504f)
 
-  
-| `Timer_Startverzögerung`   | `T1`     | Timer   | 1s Verzögerung nach Box |
-| `Timer_Schieber`           | `T2`     | Timer   | 2s Verzögerung für Schieber |
-| `Timer_NächsterZyklus`     | `T3`     | Timer   | 1s Wartezeit vor Restart |
-
 ---
 # Programm
 
