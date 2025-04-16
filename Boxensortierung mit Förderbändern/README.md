@@ -38,7 +38,8 @@ Es sind vier Reflexsensoren mit Reflektoren installiert, wie in der Abbildung ge
 
 Hier sind alle verwendeten Ein- und Ausgänge, Speicher und Timer mit ihren Adressen und Bedeutungen dokumentiert.
 
-*(→ Hier Screenshot oder Tabelle einfügen)*
+![image](https://github.com/user-attachments/assets/cb0391c7-4ebb-4534-a691-0782c8535250)
+
 
 ---
 
@@ -46,7 +47,7 @@ Hier sind alle verwendeten Ein- und Ausgänge, Speicher und Timer mit ihren Adre
 
 Dieses Abschnitt enthält Screenshots des Programms, das in TIA Portal erstellt wurde.
 
-*(→ Hier Screenshots deiner Netzwerke einfügen, z.B. Network 1–10)*
+ ![image](https://github.com/user-attachments/assets/aa50e3a0-448d-4184-878e-d75747992717)
 
 
 
